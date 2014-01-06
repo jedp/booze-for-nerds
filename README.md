@@ -53,6 +53,20 @@ The r-
 Fizz Buzz
 ---------
 
+The proper way to drink is as follows: One or more people arrange themselves in
+a circle.  Beginning with the number one, and incrementing the number by 1 with
+each participant's turn, the participants say aloud the number, unless the
+number is divisible by three, in which case they say "fizz," or five, in which
+case they say "buzz," or both, in which case they say "fizzbuzz."  Whoever
+makes a mistake has to take a drink of fizzbuzz.
+
+In a tumbler:
+
+  1. 2 oz gin or so
+  2. A good squeeze of a lemon
+  3. 1 tsp simple syrup
+  4. Club soda
+
 Memory Leak
 -----------
 
