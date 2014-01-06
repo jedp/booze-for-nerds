@@ -67,6 +67,9 @@ In a tumbler:
   3. 1 tsp simple syrup
   4. Club soda
 
+Subsitutions: In place of lemon juice, grapefruit juice is great.  Orange juice
+is also good.
+
 Memory Leak
 -----------
 
