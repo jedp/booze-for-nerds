@@ -41,3 +41,18 @@ Leibniz must have felt.  It would seem that a corollary to the dictum that
 there is nothing new under the sun would be that there is nothing new under the
 table, either.
 
+The Regression
+--------------
+
+Intermittent Orange
+-------------------
+
+The r-
+------
+
+Fizz Buzz
+---------
+
+Memory Leak
+-----------
+
