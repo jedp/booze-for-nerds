@@ -44,6 +44,9 @@ table, either.
 The Regression
 --------------
 
+  1. plastic bowl
+  2. three ice cubes
+
 Intermittent Orange
 -------------------
 
