@@ -76,3 +76,26 @@ is also good.
 Memory Leak
 -----------
 
+Picon Punch
+----------------------
+
+This was what my uncle's father drank back in the olden days of San Francisco. Picon, the kind you get from France, isn't imported anymore. There are places that serve this exact recipe. You'll have to find them. Ask around.
+
+  1. In a white wine glass add about a tablespoon of grenadine and swirl it around so it covers the inside of said glass. Toss the remainder in the sink.
+  2. Fill the glass with medium-sized ice cubes.
+  3. Pour the Picon in so it fills about 3/4 of the glass.
+  4. Fill the rest of the way with club soda. Gently mix.
+  5. Add a float of brandy and an orange peel twist and you're almost ready...
+  
+According to my uncle, before you drank the Picon Punch you are supposed to take two tablespoons of olive oil, straight. No bread chaser. Supposedly this helps ease the hangover the next morning. Does it? Hasn't steered me wrong yet so...
+
+  1. Two tablespoons of olive oil, straight into your belly.
+  
+Now, drink up, savor the odd but tantalizing flavors. Think about a time in North Beach after 1906 but before 1950. Then make another. As you take the first sips of your second drink the first one will begin to kick in. If you decide to continue forward with the Picon Punch as your drink of choice for the rest of the evening you may or may not progress through the following stages of drunkedness, in order, by number of drinks imbided:
+
+  1. You.
+  2. You, but better looking and most likely from Genoa.
+  3. Someone looking like you, but claiming to be A.P. Gianinni.
+  4. My uncle's father.
+  
+Enjoy!
