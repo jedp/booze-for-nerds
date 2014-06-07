@@ -41,17 +41,25 @@ Leibniz must have felt.  It would seem that a corollary to the dictum that
 there is nothing new under the sun would be that there is nothing new under the
 table, either.
 
+Contributed by [jedp](https://github.com/jedp)
+
 The Regression
 --------------
 
   1. plastic bowl
-  2. three ice cubes
+  2. three -- no, two -- ice cubes
+
+Contributed by [jedp](https://github.com/jedp).  Open to unimprovements.
 
 Intermittent Orange
 -------------------
 
+Contributed by some Mozillian???
+
 The r-
 ------
+
+Contributed by some Mozillian???
 
 Fizz Buzz
 ---------
@@ -73,8 +81,12 @@ In a tumbler:
 Subsitutions: In place of lemon juice, grapefruit juice is great.  Orange juice
 is also good.
 
+Contributed by [jedp](https://github.com/jedp)
+
 Memory Leak
 -----------
+
+Contributed by ???
 
 Picon Punch
 ----------------------
@@ -99,3 +111,5 @@ Now, drink up, savor the odd but tantalizing flavors. Think about a time in Nort
   4. My uncle's father.
   
 Enjoy!
+
+Contributed by [wynachtdotorg](https://github.com/wynachtdotorg)

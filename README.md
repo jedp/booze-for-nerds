@@ -5,3 +5,9 @@ fill them in if you have a good idea!
 
 Please submit a PR!
 
+Contributors
+------------
+
+- [jedp](https://github.com/jedp)
+- [wynachtdotorg](https://github.com/wynachtdotorg)
+
